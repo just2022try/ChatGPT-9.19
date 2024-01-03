@@ -1,6 +1,6 @@
 {
-  "name": "NextChat",
-  "short_name": "NextChat",
+  "name": "文书批改助手",
+  "short_name": "文书批改",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
