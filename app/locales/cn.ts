@@ -471,8 +471,8 @@ const cn = {
     Skip: "直接开始",
     NotShow: "不再展示",
     ConfirmNoShow: "确认禁用？禁用后可以随时在设置中重新启用。",
-    Title: "挑选一个预设",
-    SubTitle: "现在开始，与预设背后的灵魂思维碰撞",
+    Title: "使用预设功能",
+    SubTitle: "增加了Gemini Pro模型，可以看看自行切换看看效果～",
     More: "查看全部",
   },
 
