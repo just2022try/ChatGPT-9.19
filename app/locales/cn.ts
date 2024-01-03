@@ -472,7 +472,7 @@ const cn = {
     NotShow: "不再展示",
     ConfirmNoShow: "确认禁用？禁用后可以随时在设置中重新启用。",
     Title: "使用预设功能",
-    SubTitle: "增加了Gemini Pro模型，可以看看自行切换看看效果～",
+    SubTitle: "增加了Gemini Pro模型支持，可以自行切换比较下效果～",
     More: "查看全部",
   },
 
