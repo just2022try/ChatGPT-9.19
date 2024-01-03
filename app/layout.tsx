@@ -10,8 +10,8 @@ import { getServerSideConfig } from "./config/server";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "NextChat",
-  description: "Your personal ChatGPT Chat Bot.",
+  title: "文书批改助手(0103)",
+  description: "同步上游，增加Gemini Pro模型支持",
   viewport: {
     width: "device-width",
     initialScale: 1,
