@@ -8,7 +8,7 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
-      : "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      : "因为工具外泄，造成大量的apikey消耗，因此增设密码，[点击查看密码](https://o7m7mpmybq.feishu.cn/wiki/Dkr0wSpQsiAtfPkqLvqcXz7nnsb#part-QOOJdT9Hmo1meFxCQlRciXKcnDb)，获取后前往[登录](/#/auth)页输入访问密码后，鼠标放于本条消息上，点击上方的重试按钮即可",
   },
   Auth: {
     Title: "需要密码",
