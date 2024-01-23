@@ -159,6 +159,11 @@ export function SideBar(props: { className?: string }) {
         </div>
         <div className={styles["sidebar-sub-title"]}>
           同步上游，增加Gemini Pro模型支持
+          <br />
+          因为工具有外泄，故增设密码，
+          <a href="https://o7m7mpmybq.feishu.cn/wiki/Dkr0wSpQsiAtfPkqLvqcXz7nnsb#part-QOOJdT9Hmo1meFxCQlRciXKcnDb" target="_blank">
+            点击查看密码
+          </a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
